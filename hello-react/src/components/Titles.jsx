@@ -4,7 +4,7 @@ export default function Titles(){
             <h1>Say Hello to</h1>
             <h1>ReactJS</h1>
             <p>you can do it,</p>
-            <p>if you think can do it</p>
+            <p>if you think you can do it</p>
         </div>
     )
 }
